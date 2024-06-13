@@ -1334,6 +1334,4 @@ def countEndingsFound(list):
             counter += 1
     return counter
 
-
-
 intro()
