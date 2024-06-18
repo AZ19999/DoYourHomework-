@@ -1,5 +1,8 @@
 import time
 
+#test comment lol
+
+#some variables
 tryAgain = 0
 timeLeft = 5
 glyph = False
