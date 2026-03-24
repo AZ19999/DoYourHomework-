@@ -1,7 +1,5 @@
 import time
 
-#a comment that isn't needed
-
 #some variables
 tryAgain = 0
 timeLeft = 5
